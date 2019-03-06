@@ -11,7 +11,6 @@ import java.util.List;
  * In this we are converting String into character list and set. 
  * using set, we are verifying in list for number occurrences for each and every character
  * by using Java provided method 'frequency'.
- *
  * 
  */
 public class Stringduplicates {
